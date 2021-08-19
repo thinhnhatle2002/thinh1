@@ -3,9 +3,9 @@ module.exports = {
   DefaultPrefix: "biu", //Default prefix, Server Admins can change the prefix
   Port: 3000, //Which port website gonna be hosted
   SupportServer: "https://dsc.gg/dst74", //Support Server Link
-  Token: "Nzk5OTk1MDExNDQxNjIzMDQw.YALraQ.xnEt6Vm7qooLWZss3wVoCxYRbfA" || process.env.Token, //Discord Bot Token
-  ClientID: "799995011441623040", //Discord Client ID
-  ClientSecret: "DNlgY1Qyz0YV0yspOIP_1D43agfHVeSS", //Discord Client Secret
+  Token: "ODAxNjM2MzA0OTQwMzAyMzY3.YAjj_A.-jGkL952Bnwr7oAZE_g_80_rDeg" || process.env.Token, //Discord Bot Token
+  ClientID: "801636304940302367", //Discord Client ID
+  ClientSecret: "AduHUIRhw-XCphBZ5ZleRQUme8DyVXq7", //Discord Client Secret
   Scopes: ["identify", "guilds", "applications.commands"], //Discord OAuth2 Scopes
   CallbackURL: "/api/callback", //Discord OAuth2 Callback URL
   "24/7": false, //If you want the bot to be stay in the vc 24/7
